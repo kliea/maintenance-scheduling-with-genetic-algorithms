@@ -1,2 +1,2 @@
-# maintenance-scheduling-with-genetic-algorithms
+# Maintenance-scheduling-with-genetic-algorithms
 Genetic Algorithm Project
